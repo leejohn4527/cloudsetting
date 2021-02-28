@@ -1,0 +1,21 @@
+greeting: "안녕하세요"
+
+---
+
+spring:
+  profiles: stage
+greeting: "스테이징에 오신걸 환영합니다."
+
+---
+
+spring:
+  profiles: dev
+greeting: "개발에 오신걸 환영합니다."
+
+---
+
+spring:
+  profiles: local
+greeting: "로컬에 오신걸 환영합니다."
+
+
