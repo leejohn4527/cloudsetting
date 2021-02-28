@@ -1,3 +1,7 @@
+server:
+  name: leejohn-dev
+  message: DEV 서버입니다
+
 who:
   am:
     i: dev-leejohn
