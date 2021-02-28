@@ -1,3 +1,7 @@
+server:
+  name: leejohn-test
+  message: TEST 서버입니다
+
 who:
   am:
     i: test-leejohn
